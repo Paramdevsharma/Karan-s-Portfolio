@@ -129,7 +129,6 @@ export default function ContactSection() {
                 <div className="text-[#7C3E2E] font-semibold mb-2">PMP Certification</div>
                 <div className="text-[#7C3E2E] font-bold text-lg mb-1">In Progress</div>
                 <div className="text-[#69532C] text-sm">Project Management Professional</div>
-                <div className="text-[#7C3E2E] text-sm mt-2">Exam: October 2025</div>
               </div>
 
               <div className="bg-[#D2D2C8]/30 rounded-2xl p-6 border border-[#D2D2C8]">
@@ -141,7 +140,7 @@ export default function ContactSection() {
 
               <div className="bg-[#D2D2C8]/30 rounded-2xl p-6 border border-[#D2D2C8]">
                 <div className="text-[#7C3E2E] font-semibold mb-2">Experience</div>
-                <div className="text-[#7C3E2E] font-bold text-lg mb-1">5+ Years</div>
+                <div className="text-[#7C3E2E] font-bold text-lg mb-1">6+ Years</div>
                 <div className="text-[#69532C] text-sm">Infrastructure & Transit Projects</div>
                 <div className="text-[#69532C]/80 text-sm mt-2">$22M - $4.6B Project Portfolio</div>
               </div>
