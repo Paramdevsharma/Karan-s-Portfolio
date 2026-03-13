@@ -22,7 +22,7 @@ export default function AboutSection() {
     {
       icon: Award,
       title: "PMP Certification",
-      description: "Currently pursuing Project Management Professional certification (Exam: October 2025)"
+      description: "Currently pursuing Project Management Professional certification"
     }
   ];
 
@@ -53,7 +53,7 @@ export default function AboutSection() {
         >
           <div className="bg-gradient-to-br from-[#D2D2C8]/20 to-[#D2D2C8]/30 rounded-3xl p-8 md:p-12 border border-[#D2D2C8]/50 shadow-xl">
             <p className="text-lg md:text-xl text-[#212A31]/80 leading-relaxed font-light">
-              Licensed Professional Engineer (P.Eng.) with <span className="font-semibold text-[#212A31]">5+ years of experience</span> delivering 
+              Licensed Professional Engineer (P.Eng.) with <span className="font-semibold text-[#212A31]">6+ years of experience</span> delivering 
               complex, multi-disciplinary capital infrastructure projects across transit and municipal sectors. 
               Proven expertise managing full project lifecycle from scope development and environmental assessments 
               to procurement, consultant oversight, construction support, and project close-out.
@@ -106,7 +106,6 @@ export default function AboutSection() {
             <div className="bg-white backdrop-blur border-2 border-[#69532C] rounded-xl px-8 py-4 shadow-lg">
               <div className="text-[#7C3E2E] font-semibold text-sm mb-1">In Progress</div>
               <div className="text-[#7C3E2E] text-lg font-bold">Project Management Professional (PMP)</div>
-              <div className="text-[#69532C] text-sm mt-1">Exam scheduled: October 2025</div>
             </div>
           </div>
         </motion.div>

@@ -59,7 +59,7 @@ export default function HeroSection() {
             transition={{ delay: 0.5 }}
             className="text-lg md:text-xl text-[#7C3E2E]/80 max-w-4xl mx-auto mb-12 leading-relaxed font-light"
           >
-            5+ years of experience delivering complex, multi-disciplinary capital infrastructure projects 
+            6+ years of experience delivering complex, multi-disciplinary capital infrastructure projects 
             across transit and municipal sectors. Expert in project management, environmental assessments, 
             and stakeholder engagement with a proven track record on $22M-$4.6B projects.
           </motion.p>
@@ -99,7 +99,7 @@ export default function HeroSection() {
             className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto"
           >
             <div className="bg-white/80 backdrop-blur border border-[#D2D2C8] rounded-2xl p-6 shadow-lg">
-              <div className="text-4xl font-bold text-[#7C3E2E] mb-2">5+</div>
+              <div className="text-4xl font-bold text-[#7C3E2E] mb-2">6+</div>
               <div className="text-[#69532C] font-light">Years Experience</div>
             </div>
             <div className="bg-white/80 backdrop-blur border border-[#D2D2C8] rounded-2xl p-6 shadow-lg">
